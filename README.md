@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TomWorboys/PipelineTest/_apis/build/status/tomworboys.pipelines-java?branchName=master)](https://dev.azure.com/TomWorboys/PipelineTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
